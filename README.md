@@ -1,1 +1,1 @@
-I have completes till the auth and interactuions.try to do with posts
+I have completed till the auth and interactuions.try to do with posts
