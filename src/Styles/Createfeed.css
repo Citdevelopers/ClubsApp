@@ -1,0 +1,33 @@
+.card-contents-create-feed{
+    margin-top: 90px;
+}
+#file-input{
+    display:none
+}
+.discard-button{
+    background-color: red;
+    color:white;
+    outline:none;
+    border:none;
+    padding:10px 25px;
+    border-radius:5px;
+    color: white;
+    font-size: 15px;
+    cursor: pointer
+}
+.btn-bar{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    padding:0px 20px 20px 20px
+}
+.description:focus{
+    outline:none;
+    border:none
+}
+.poster-image{
+    max-width:100% ;
+    height:auto;
+    min-width: 200px;
+    cursor: pointer;
+}
